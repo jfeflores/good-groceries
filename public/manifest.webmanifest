@@ -1,0 +1,18 @@
+{
+  "name": "Good Groceries",
+  "short_name": "Groceries",
+  "description": "A private quality-first grocery catalog, budget planner, and retailer-linked cart.",
+  "start_url": "/app.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#102018",
+  "theme_color": "#102018",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
