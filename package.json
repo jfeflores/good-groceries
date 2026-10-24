@@ -2,7 +2,7 @@
   "name": "good-groceries-app",
   "version": "0.1.0",
   "private": true,
-  "license": "MIT",
+  "license": "Apache-2.0",
   "engines": {
     "node": ">=22.13.0"
   },
